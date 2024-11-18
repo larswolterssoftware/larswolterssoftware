@@ -11,7 +11,7 @@ I do projects profesionally next to my 9-5. If you are interested in getting a M
 
 ### Stack
 
-- Frontend: React + Tailwind CSS OR TALL stack (depends on what we're building)
+- Frontend: React + Tailwind CSS or TALL stack (depends on what we're building)
 - Backend: PHP & Laravel
 
 I use Notion for taking notes, JetBrains IDEs for coding and email.
