@@ -5,6 +5,6 @@
 - 📫 You can reach me via info@larswoltersoftware.nl
 - ⚡ I do full stack development full time and as a freelancer
 
-I do projects profesionally next to my 9-5. If you are interested in getting a MVP up and running or a complete product: see email above.
+I do projects profesionally next to my 9-5. If you are interested in getting a MVP up and running or a complete product: see my email up here.
 
-No idea is too crazy for realisation (or at least attempting to).
+No idea is too crazy for realisation (we can at least try).
